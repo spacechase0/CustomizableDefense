@@ -1,0 +1,3 @@
+Allows you to configure the defense protection ratio.
+
+Also nullifies damage if you have 50 damage points worth of defense over it. (Also configurable)
